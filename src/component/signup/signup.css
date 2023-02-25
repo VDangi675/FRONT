@@ -1,0 +1,60 @@
+.container{
+    background-color: pink;
+    width: 100vw;
+    height: 100vw;
+}
+ .dat{
+    width: 450px;
+    height: 600px;
+    box-shadow: 5px 5px 5px 5px;
+    margin-top: 20px;
+    margin-left: 280px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 251)
+}
+
+.detail{
+    width: 400px;
+    height: 70px;
+    display: flex;
+   flex-direction: column;
+    margin: 15px;
+    margin-left:120 ;
+}
+.feild{
+    position: absolute;
+    margin-top: 50px;
+    height: 30px;
+    width: 30%;
+    border-color: black;
+    border-top-color: white;
+   
+}
+.check{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+h2{
+    font-size: 40px;
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(148, 145, 141);
+    margin-left: 20px;
+}
+
+
+
+#bt{
+    width: 180px;
+    height: 50px;
+    border: none;
+    color: white;
+    background-color: pink;
+    border-radius: 25px;
+    margin-left: -90px;
+}

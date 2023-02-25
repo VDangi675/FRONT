@@ -1,0 +1,48 @@
+.content{
+    background-color: grey;
+    width: 100vw;
+    height: 100vw;
+
+}
+.logo{
+    width: 40px;
+    height: 50px;
+    float: left;
+    margin: 40px;
+}
+.img{
+     width: 50px;
+    height: 60px;
+    background-color:gray;
+}
+
+.search{
+   
+    margin-top: 130px;
+    position: absolute;
+    margin-left: 400px;
+}
+#srh{
+ width: 400px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.new_Add{
+    width: 50px;
+    height: 50px;
+     margin-top: 20px;
+    position: absolute;
+    margin-left: 400px;
+}
+
+.New_recipe
+{
+    width: 50px;
+    height: 40px;
+    color: white;
+     margin-left: 150px;
+    background-color: black;
+    border-radius: 10px;
+
+}
